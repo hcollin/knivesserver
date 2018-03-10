@@ -1,6 +1,6 @@
-package entity;
+package com.frosttroll.knives.entity;
 
-import enums.TurnStatus;
+import com.frosttroll.knives.enums.TurnStatus;
 
 public class Turn {
 

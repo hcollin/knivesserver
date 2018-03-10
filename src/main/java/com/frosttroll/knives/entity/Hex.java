@@ -1,7 +1,7 @@
-package entity;
+package com.frosttroll.knives.entity;
 
-import enums.HexFlag;
-import enums.TerrainType;
+import com.frosttroll.knives.enums.HexFlag;
+import com.frosttroll.knives.enums.TerrainType;
 
 import java.util.List;
 

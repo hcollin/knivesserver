@@ -1,6 +1,6 @@
-package entity;
+package com.frosttroll.knives.entity;
 
-import enums.CommandType;
+import com.frosttroll.knives.enums.CommandType;
 
 public class Command {
 

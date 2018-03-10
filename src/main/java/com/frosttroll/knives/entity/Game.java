@@ -1,7 +1,7 @@
-package entity;
+package com.frosttroll.knives.entity;
 
-import enums.GameFlag;
-import enums.GameStatus;
+import com.frosttroll.knives.enums.GameFlag;
+import com.frosttroll.knives.enums.GameStatus;
 
 import java.util.List;
 

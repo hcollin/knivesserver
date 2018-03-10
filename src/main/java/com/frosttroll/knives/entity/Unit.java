@@ -1,7 +1,7 @@
-package entity;
+package com.frosttroll.knives.entity;
 
-import enums.UnitFlag;
-import enums.UnitType;
+import com.frosttroll.knives.enums.UnitFlag;
+import com.frosttroll.knives.enums.UnitType;
 
 import java.util.List;
 

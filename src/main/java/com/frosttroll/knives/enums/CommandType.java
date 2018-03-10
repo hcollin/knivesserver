@@ -1,4 +1,4 @@
-package enums;
+package com.frosttroll.knives.enums;
 
 public enum CommandType {
     HOLD, MOVE, SUPPORTHOLD, SUPPORTMOVE, CONVOY,

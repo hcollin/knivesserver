@@ -1,4 +1,4 @@
-package entity;
+package com.frosttroll.knives.entity;
 
 public class City {
 
